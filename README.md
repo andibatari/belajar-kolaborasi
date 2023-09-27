@@ -4,4 +4,4 @@
 *Materi yang sudah aku pelajari:*
 - SQL
 - GIT DAN GITHUB
-- JAVASCRIPT
+- JAVASCRIPT (KELAS TIDAK SELESAI)
